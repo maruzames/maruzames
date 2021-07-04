@@ -22,13 +22,13 @@
     
 <div align="center">
     
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruzames&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruzames&layout=compact&theme=tokyonight)](https://github.com/maruzames/github-readme-stats)
     
 </div> 
     
 <div align="center">
     
-    - 📫 How to reach me **maruzames@gmail.com**
+   - 📫 How to reach me **maruzames@gmail.com**
     
 </div>
     
@@ -38,21 +38,13 @@
     
 <li align="center">
     
-       <a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img> 
-    
-        Linkedin
-    
-       </a>
+<a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img>Linkedin</a>
     
 </li>
     
 <li align="center">
     
-       <a class="url" href="https://api.whatsapp.com/send?phone=5521992516791/" img> 
-    
-        Whatsapp
-    
-       </a>
+<a class="url" href="https://api.whatsapp.com/send?phone=5521992516791/" img>Whatsapp</a>
     
 </li>
     
