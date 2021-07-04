@@ -70,6 +70,6 @@
     
 <div align="center">
     
-    ![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruzames&show_icons=true&theme=tokyonight)
+![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruzames&show_icons=true&theme=tokyonight)
     
 </div>
