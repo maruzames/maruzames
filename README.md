@@ -1,12 +1,10 @@
 <h2 align="center">Helloooooo!</h2>
 
-    <h1 align="center">Welcome to my profile 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
     
-    <h3 align="center">Front-end Developer Jr</h3>
-    
-    
-    
-     <div align="center">
+<h3 align="center">Front-end Developer Jr</h3>
+   
+<div align="center">
     
       <span>
     
@@ -18,55 +16,29 @@
     
        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     
-       <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    
       </span>
     
-     </div>
+</div>
     
-    </br>
+</br>
     
-    
-    
-    <div align="center">
-    
-    
+<div align="center">
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maruzames&layout=compact&theme=tokyonight)](https://github.com/ralfprezia/github-readme-stats)
     
-      
+</div> 
     
-    
-    
-    </div>
-    
-    
-    
-    
-    
-    
-    
-    <div align="center">
-    
-      
+<div align="center">
     
     - 📫 How to reach me **maruzames@gmail.com**
     
-      
+</div>
     
-    </div>
+<h3 align="center">Connect with me:</h3>
     
+<p align="left">
     
-    
-    
-    
-     <h3 align="center">Connect with me:</h3>
-    
-      
-    
-     <p align="left">
-    
-      <li align="center">
+<li align="center">
     
        <a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img> 
     
@@ -74,9 +46,9 @@
     
        </a>
     
-      </li>
+</li>
     
-      <li align="center">
+<li align="center">
     
        <a class="url" href="https://api.whatsapp.com/send?phone=5521992516791/" img> 
     
@@ -84,17 +56,11 @@
     
        </a>
     
-      </li>
+</li>
     
-      
+<h3 align="center"> 🚀 Frameworks </h3>
     
-    
-    
-    
-    
-    <h3 align="center"> 🚀 Frameworks </h3>
-    
-    <div align="center">
+<div align="center">
     
      <span>
     
@@ -110,15 +76,11 @@
     
      </span>
     
-    </div>
-    
-    
-    
-    </br>
-    
-    
-    
-    <div align="center">
+ </div>
+ 
+ </br>
+ 
+ <div align="center">
     
      <span>  
     
@@ -134,26 +96,14 @@
     
      </span>
     
-    </div>
+</div>
     
+</br>
     
+</br>
     
-    </br>
-    
-    
-    
-    </br>
-    
-    
-    
-    
-    
-    <div align="center">
-    
-      
+<div align="center">
     
     ![Maru's GitHub stats](https://github-readme-stats.vercel.app/api?username=maruzames&show_icons=true&theme=tokyonight)
     
-    
-    
-    </div>
+</div>
