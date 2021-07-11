@@ -2,7 +2,7 @@
 
 <h1 align="center">Welcome to my profile 👋</h1>
     
-<h3 align="center">Front-end Developer Jr</h3>
+<h3 align="center">Front-end Developer Pleno</h3>
    
 <div align="center">
     
