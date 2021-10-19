@@ -28,11 +28,11 @@
     
 <div align="center">
     
-   - 📫 How to reach me **maruzames@gmail.com**
+   - 📫 meu melhor e-mail **maruzames@gmail.com**
     
 </div>
     
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Conheça minha trajetória:</h3>
     
 <p align="left">
     
