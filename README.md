@@ -32,15 +32,15 @@
     
 </div>
     
-<h3 align="center">Conheça minha trajetória:</h3>
-    
-<p align="left">
+<h3 align="center">Conheça minha trajetória na página do LinkedIn:</h3>
     
 <li align="center">
     
 <a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img>Linkedin</a>
     
 </li>
+
+<h3 align="center">Mande mensagem pelo Whatsapp:</h3>
     
 <li align="center">
     
@@ -48,7 +48,7 @@
     
 </li>
     
-<h3 align="center"> 🚀 Frameworks </h3>
+<h3 align="center"> 🚀 Frameworks utilizados </h3>
     
 <div align="center">
     <span>
