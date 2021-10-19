@@ -1,6 +1,6 @@
-<h2 align="center">Helloooooo!</h2>
+<h2 align="center">Olaaaaa!!!</h2>
 
-<h1 align="center">Welcome to my profile 👋</h1>
+<h1 align="center">seja bem-vindo ao meu github 👋👋👋👋👋</h1>
     
 <h3 align="center">Front-end Developer Pleno</h3>
    
