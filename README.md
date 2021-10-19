@@ -34,19 +34,11 @@
     
 <h3 align="center">Conheça minha trajetória na página do LinkedIn:</h3>
     
-<li align="center">
-    
-<a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img>Linkedin</a>
-    
-</li>
+<li align="center"><a class="url" href="https://www.linkedin.com/in/marcosouzagomes/" img>Linkedin</a></li>
 
 <h3 align="center">Mande mensagem pelo Whatsapp:</h3>
     
-<li align="center">
-    
-<a class="url" href="https://api.whatsapp.com/send?phone=5521992516791/" img>Whatsapp</a>
-    
-</li>
+<li align="center"><a class="url" href="https://api.whatsapp.com/send?phone=5521992516791/" img>Whatsapp</a></li>
     
 <h3 align="center"> 🚀 Frameworks utilizados </h3>
     
