@@ -2,7 +2,7 @@
 
 <h1 align="center">seja bem-vindo ao meu github 👋👋👋👋👋</h1>
     
-<h3 align="center">Front-end Developer Pleno</h3>
+<h3 align="center">Programador Digital</h3>
    
 <div align="center">
     
