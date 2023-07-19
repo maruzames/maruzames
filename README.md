@@ -13,6 +13,8 @@
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+   <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=python&logoColor=white"/>
     
 </span>
     
@@ -26,7 +28,7 @@
     
 </div> 
     
-<div align="center"> - 📫 meu melhor e-mail **maruzames@gmail.com**</div>
+<div align="center"> - 📫 meu melhor e-mail: maruzames@gmail.com</div>
     
 <h3 align="center">Conheça minha trajetória na página do LinkedIn:</h3>
     
