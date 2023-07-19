@@ -28,7 +28,7 @@
     
 </div> 
     
-<div align="center"> - 📫 meu melhor e-mail: maruzames@gmail.com</div>
+<div align="center"> - 📫 meu melhor e-mail: maruzames@gmail.com - </div>
     
 <h3 align="center">Conheça minha trajetória na página do LinkedIn:</h3>
     
